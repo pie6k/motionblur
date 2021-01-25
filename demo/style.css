@@ -1,0 +1,32 @@
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+  line-height: 1.5;
+  font-size: 18px;
+  padding: 100px;
+}
+
+#content {
+  max-width: 80ch;
+  margin: auto auto 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-img {
+  display: block;
+  margin: auto auto 30px;
+  border-radius: 10px;
+}
+
+mark {
+  background-color: #0001;
+}
+
+a {
+  font-weight: bold;
+  color: inherit;
+}
+
+iframe {
+  margin: auto auto 30px;
+}
